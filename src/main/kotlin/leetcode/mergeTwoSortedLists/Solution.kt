@@ -1,4 +1,4 @@
-package mergeTwoSortedLists
+package leetcode.mergeTwoSortedLists
 
 class ListNode(var `val`: Int) {
     var next: ListNode? = null
