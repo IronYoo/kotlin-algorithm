@@ -1,6 +1,8 @@
-package leetcode.palindromeLinkedList
+package leetcode.linnkedList.reverseLinkedList
 
-class ListNode(var `val`: Int) {
+class ListNode(
+    var `val`: Int,
+) {
     var next: ListNode? = null
 }
 

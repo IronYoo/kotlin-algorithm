@@ -1,6 +1,8 @@
-package leetcode.swapNodesinPairs
+package leetcode.linnkedList.swapNodesinPairs
 
-class ListNode(var `val`: Int) {
+class ListNode(
+    var `val`: Int,
+) {
     var next: ListNode? = null
 }
 
