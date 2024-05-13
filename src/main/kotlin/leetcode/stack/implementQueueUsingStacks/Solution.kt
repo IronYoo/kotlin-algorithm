@@ -3,7 +3,7 @@ package leetcode.stack.implementQueueUsingStacks
 import java.util.ArrayDeque
 import java.util.Deque
 
-class MyQueue {
+class Solution {
     val input: Deque<Int> = ArrayDeque()
     val output = ArrayDeque<Int>()
 

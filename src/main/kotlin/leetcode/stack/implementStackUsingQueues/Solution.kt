@@ -1,8 +1,9 @@
 package leetcode.stack.implementStackUsingQueues
 
-import java.util.*
+import java.util.Deque
+import java.util.LinkedList
 
-class MyStack {
+class Solution {
     val queue: Deque<Int> = LinkedList<Int>()
 
     fun push(x: Int) {
