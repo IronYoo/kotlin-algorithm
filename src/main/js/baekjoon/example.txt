@@ -1,6 +1,6 @@
 5
-RRRBB
-GGBBB
-BBBRR
-BBRRR
-RRRRR
+New
+Open
+Save
+Save As
+Save All
